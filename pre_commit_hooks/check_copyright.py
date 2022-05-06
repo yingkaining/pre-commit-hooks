@@ -3,7 +3,7 @@ import os
 import os.path as osp
 from typing import List
 
-HEADER = 'Copyright (c) OpenMMLab. All rights reserved.\n'
+HEADER = 'Copyright (c) ZJUTCV. All rights reserved.\n'
 
 HEADER_KEYWORDS = {'Copyright', 'License'}
 
